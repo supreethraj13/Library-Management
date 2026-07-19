@@ -1,0 +1,25 @@
+{
+  "name": "libmanagement",
+  "version": "1.0.0",
+  "description": "This is a Library management Apis",
+  "homepage": "https://github.com/supreethraj13/Library-Management#readme",
+  "bugs": {
+    "url": "https://github.com/supreethraj13/Library-Management/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supreethraj13/Library-Management.git"
+  },
+  "license": "ISC",
+  "author": "supreeth",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  }
+}
